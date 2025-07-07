@@ -125,7 +125,7 @@ For commercial licensing inquiries:
 
 ## 12. Purchase Process
 
-1. **Contact us** at licensing@z-mpc.xyz
+1. **Contact us** at https://z-mpc.xyz - Contact for Commercial License
 2. **Choose your tier** based on usage needs
 3. **Sign agreement** and make payment
 4. **Receive license key** and access credentials
