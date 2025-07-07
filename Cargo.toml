@@ -1,10 +1,10 @@
 [package]
 name = "z-mpc"
 version = "0.1.0"
-edition = "2021"
+edition = "2025"
 authors = ["z-MPC Team"]
 description = "Laurent Series based One-Round Secret Sharing with ZK-Proof for distributed signing"
-license = "MIT"
+license = "Dual license"
 repository = "https://github.com/z-mpc/z-mpc"
 keywords = ["mpc", "cryptography", "zero-knowledge", "secret-sharing", "laurent-series"]
 categories = ["cryptography", "algorithms"]
