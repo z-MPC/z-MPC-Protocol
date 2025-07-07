@@ -122,18 +122,8 @@ Your sponsorship directly supports:
 
 For enterprise partnerships and custom licensing:
 
-- **Email**: partnerships@z-mpc.xyz
-- **Website**: https://z-mpc.xyz/enterprise
-- **Phone**: +1-XXX-XXX-XXXX
-
-## 📞 Contact
-
-For sponsorship questions:
-- **Email**: sponsors@z-mpc.xyz
-- **Discord**: [z-MPC Community](https://discord.gg/z-mpc)
-- **Twitter**: [@z_mpc](https://twitter.com/z_mpc)
-
----
+- **Website**: https://z-mpc.xyz
+Contact for Commercial License
 
 **Thank you for supporting z-MPC!** 🎉
 
